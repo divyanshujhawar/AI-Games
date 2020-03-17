@@ -14,4 +14,4 @@ This repo collects my work on Artificial Intelligent games, it includes various 
   
 4. 2048 AI tile game: This part is very much similar to 2048 game https://en.wikipedia.org/wiki/2048_(video_game), just that it wass converted to 2 player game. So, there are 3 possibility Human-Human, Human-AI and AI-AI. Mini-Max algorithm with alpha-beta pruning was used. And we have tested it with 7 different heuristic functions.
 
-5. Code Breaking: This part the idea is to decrypt a code without any key. I have used Metropolis Hastings algorithm for this part, and using that the code was clearly decrypting the given encoded string. Different patterns in determining keys were used, with multiple run to get the accurate result.
+5. Decrypt Code: This part the idea is to decrypt a code without any key. I have used Metropolis Hastings algorithm for this part, and using that the code was clearly decrypting the given encoded string. Different patterns in determining keys were used, with multiple run to get the accurate result.
